@@ -1,0 +1,15 @@
+1,Nguyễn Nam,18,nam,Quốc Oai,8.5
+1,Nguyễn Nam,18,nam,Quốc Oai,8.5
+2,Lê Phú,20,nam,Hà Đông,7.5
+1,Nguyễn Nam,18,nam,Quốc Oai,8.5
+2,Lê Phú,20,nam,Hà Đông,7.5
+3,Nguyễn Lan,26,nữ,Nam Từ Liêm,9.2
+1,Nguyễn Nam,18,nam,Quốc Oai,8.5
+2,Lê Phú,20,nam,Hà Đông,7.5
+3,Nguyễn Lan,26,nữ,Nam Từ Liêm,9.2
+4,Trung Nguyễn,23,nam,Hai Bà Trưng,6.9
+1,Nguyễn Nam,18,nam,Quốc Oai,8.5
+2,Lê Phú,20,nam,Hà Đông,7.5
+3,Nguyễn Lan,26,nữ,Nam Từ Liêm,9.2
+4,Trung Nguyễn,23,nam,Hai Bà Trưng,6.9
+5,Đình Đông,27,nam,Yên Nghĩa,7.6
